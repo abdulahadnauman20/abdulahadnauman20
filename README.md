@@ -1,9 +1,4 @@
 
-<!--
-**abdulahadnauman20/abdulahadnauman20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-Based on your resume, here’s a professional way to introduce yourself on your GitHub profile:
 
 ---
 
