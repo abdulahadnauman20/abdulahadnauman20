@@ -54,5 +54,3 @@ My focus areas include:
 ### 📌 Let's Connect!
 * 🔗 [LinkedIn](https://www.linkedin.com/in/abdulahadnauman/)
 * 💬 Reach me: [abdulahadnauman10@gmail.com](mailto:abdulahadnauman10@gmail.com)
-* 🔗 Repos: [Multi-Cloud Project](https://github.com/abdulahadnauman20/multi-cloud-project)
-
