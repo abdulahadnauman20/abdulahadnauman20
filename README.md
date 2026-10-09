@@ -75,19 +75,24 @@ My focus areas include:
 
 <br/>
 
-<h3 align="center">🗓️ My Contribution Calendar</h3>
+
+---
+
+<h2 align="center">📅 My GitHub Contribution Calendar</h2>
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/abdulahadnauman20/abdulahadnauman20/output/contributions.svg" width="100%" alt="GitHub Contribution Calendar" />
+![GitHub Contributions](https://ghchart.rshah.org/58A6FF/abdulahadnauman20)
 
 </div>
 
 <br/>
 
+<h2 align="center">🔥 GitHub Streak</h2>
+
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=abdulahadnauman20&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=abdulahadnauman20&theme=tokyonight&hide_border=true)
 
 </div>
 
