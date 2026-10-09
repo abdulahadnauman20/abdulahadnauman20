@@ -66,28 +66,53 @@ My focus areas include:
 
 ---
 
+
+
+
+---
+
 <h2 align="center">🌌 My Coding Universe</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Agentic+AI+Developer;Building+Intelligent+Applications;Turning+Ideas+Into+Reality" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulahadnauman20&style=for-the-badge&color=5865F2&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/abdulahadnauman20?style=for-the-badge&color=5865F2&labelColor=0D1117" alt="Followers" />
-</p>
-
-<br/>
-
-<h3 align="center">📈 My Contribution Journey</h3>
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulahadnauman20&theme=tokyonight&animation=draw" width="100%" alt="GitHub Contribution Timeline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Agentic+AI+Developer;Building+Intelligent+Applications" alt="Developer Introduction" />
 
 </div>
 
 <br/>
+
+<h3 align="center">📈 My Coding Journey</h3>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulahadnauman20&theme=tokyonight" width="95%" alt="Contribution Timeline" />
+
+</div>
+
+<br/>
+
+<h3 align="center">📊 Development Statistics</h3>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abdulahadnauman20&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="170" alt="GitHub Statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahadnauman20&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Most Used Languages" />
+
+</div>
+
+<br/>
+
+<h3 align="center">🔥 Contribution Streak</h3>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=abdulahadnauman20&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+
+</div>
+
+---
+
 
 <h3 align="center">⚡ Development Statistics</h3>
 
