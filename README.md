@@ -63,47 +63,25 @@ My focus areas include:
 ---
 
 
----
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=abdulahadnauman20&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true"
-    height="170"
-    alt="GitHub Statistics"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahadnauman20&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="170"
-    alt="Most Used Languages"
-  />
-
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
 
-  <img
-    src="https://streak-stats.demolab.com/?user=abdulahadnauman20&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
+<img src="https://github-readme-stats.vercel.app/api?username=abdulahadnauman20&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="170" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahadnauman20&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=abdulahadnauman20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
-## 📈 Contribution Activity
+## 📈 GitHub Contribution Graph
 
 <div align="center">
 
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=abdulahadnauman20&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulahadnauman20&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
 
 </div>
-
----
-
----
