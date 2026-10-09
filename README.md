@@ -136,13 +136,58 @@ My focus areas include:
 
 <br/>
 
-<h3 align="center">🔥 Contribution Streak</h3>
+
+---
+
+<h2 align="center">🌃 My Contribution City</h2>
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=abdulahadnauman20&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=FFB86C&currStreakLabel=70A5FD" alt="GitHub Streak" />
+  <a href="https://github.com/abdulahadnauman20">
+    <img
+      src="https://img.proreadme.com/c/contribution-city.svg?username=abdulahadnauman20&theme=dark"
+      width="100%"
+      alt="Abdul Ahad Nauman's 3D GitHub Contribution City"
+    />
+  </a>
 
 </div>
+
+<br/>
+
+<h2 align="center">⚡ Development Statistics</h2>
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=abdulahadnauman20&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true"
+    height="170"
+    alt="GitHub Statistics"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahadnauman20&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Top Languages"
+  />
+
+</div>
+
+<br/>
+
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<div align="center">
+
+  <img
+    src="https://streak-stats.demolab.com/?user=abdulahadnauman20&theme=tokyonight&hide_border=true"
+    alt="Contribution Streak"
+  />
+
+</div>
+
+---
+
 
 <br/>
 
