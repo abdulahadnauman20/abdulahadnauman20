@@ -63,25 +63,32 @@ My focus areas include:
 ---
 
 
+---
 
-## 📊 GitHub Stats
+<h2 align="center">🌌 My Coding Universe</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdulahadnauman20&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="170" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=abdulahadnauman20&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=FFB86C&currStreakLabel=70A5FD" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahadnauman20&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+</div>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=abdulahadnauman20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-## 📈 GitHub Contribution Graph
+<h3 align="center">🗓️ My Contribution Calendar</h3>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulahadnauman20&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://raw.githubusercontent.com/abdulahadnauman20/abdulahadnauman20/output/contributions.svg" width="100%" alt="GitHub Contribution Calendar" />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=abdulahadnauman20&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views" />
+
+</div>
+
+---
