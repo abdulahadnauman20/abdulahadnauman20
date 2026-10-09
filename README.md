@@ -58,3 +58,32 @@ My focus areas include:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abdulahadnauman/)  
 - 💬 Email: [abdulahadnauman10@gmail.com](mailto:abdulahadnauman10@gmail.com)  
 - 🌐 Portfolio: [https://portfolio-one-livid-46.vercel.app](https://portfolio-one-livid-46.vercel.app)
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulahadnauman20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahadnauman20&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com/?user=abdulahadnauman20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+## 📈 GitHub Contribution Graph
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulahadnauman20&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+
+</div>
+
+---
