@@ -114,15 +114,25 @@ My focus areas include:
 ---
 
 
+
 <h3 align="center">⚡ Development Statistics</h3>
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulahadnauman20&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=70A5FD&icon_color=BF91F3" height="170" alt="GitHub Statistics" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=abdulahadnauman20&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true"
+    height="180"
+    alt="GitHub Statistics"
+  />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulahadnauman20&theme=tokyonight&animation=load" height="170" alt="Repository Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahadnauman20&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
 
 </div>
+
 
 <br/>
 
